@@ -1,1 +1,4 @@
-.direnv
+/.direnv
+/.spago
+/dist
+/output
